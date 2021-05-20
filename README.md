@@ -8,7 +8,7 @@ Vision and CoreML frameworks Playgrounds project for detecting and identifying e
 
 This project has been developed by students of ICT course of **IES Gilabert de Centelles** (Nules) with the help of professor **Rafa Rubio**. It is therefore an educational non-profit project.
 
-Students who have participated in this project are:
+Students who have participated in this project:
 
 - Mario Arnau
 - Monsef Blouz
