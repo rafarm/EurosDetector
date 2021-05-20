@@ -87,6 +87,7 @@ public class VisionViewController: AVViewController {
         DispatchQueue.main.async(execute: {
             // Clear previous objects
             for label in self.objectsView.arrangedSubviews {
+            	  self.objectsView.removeArrangedSubview(label)
                 label.removeFromSuperview()
             }
             
